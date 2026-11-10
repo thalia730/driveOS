@@ -1,0 +1,3 @@
+<section class="bluetooth-layout">
+    <div class="card bluetooth-main"><div class="bluetooth-symbol">ᛒ</div><span class="eyebrow">CONECTIVIDADE</span><h2>Conecte seu dispositivo</h2><p class="muted">Simule o pareamento de um celular com a central DriveOS.</p><div class="device-box"><span>▯</span><div><b id="deviceName">Nenhum dispositivo conectado</b><small id="deviceStatus">Bluetooth demonstrativo</small></div><button id="connectDevice" class="primary-button">Conectar</button></div><p class="muted tiny">Esta demonstração não ativa o Bluetooth do computador ou do celular.</p></div>
+</section>
